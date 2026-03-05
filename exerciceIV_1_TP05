@@ -1,0 +1,3 @@
+def bonjour_bts():
+    print("Bonjour BTS sio")
+bonjour_bts()
